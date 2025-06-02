@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By DAWENS BOY TECH",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name your Zarya-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name Zarya-MD",
     "stop": "pm2 stop Zarya-MD",
     "restart": "pm2 restart Zarya-MD"
   },
